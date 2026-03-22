@@ -3,12 +3,13 @@ A structured collection of Java programs focusing on core concepts, data structu
 
 📁 Repository Structure
     The code is organized by topic to make navigation seamless:
-    Category              Description
-    Basics/              Syntax, Loops, Conditionals, and Data Types.
-    OOPS/                Inheritance, Polymorphism, Abstraction, and Encapsulation.
-    Collections/         Lists, Sets, Maps, and Queue implementations.
-    Algorithms/          Sorting, Searching, and Recursion logic.
-    Strings/             String manipulation and Buffer/Builder efficiency.
+   | Folder Name | Description | Key Topics |
+| :--- | :--- | :--- |
+| **Basics/** | Fundamental syntax and logic | Variables, Loops, Conditionals |
+| **OOPS/** | Object-Oriented principles | Classes, Inheritance, Interfaces |
+| **Collections/** | Data structures framework | List, Set, Map, HashMap |
+| **Algorithms/** | Logic and problem solving | Sorting, Searching, Big O |
+| **Strings/** | Memory-efficient manipulation | StringBuilder, Regex |
 
 🚀 Getting StartedPrerequisites
       - JDK 17 or higher recommended.
